@@ -1,4 +1,4 @@
-## Kickstarter using Smart Contracts
+## Kickstarter (with Smart Contracts)
 
 Simple decentralized ethereum application that utilizes smart contracts to prevent fraud on a kickstarter-like platform. Built using React on the front-end and Solidity and Javascript on the back-end.
 
